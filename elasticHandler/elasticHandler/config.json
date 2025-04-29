@@ -1,0 +1,8 @@
+{
+  "elastic": {
+    "base_url": "http://localhost:9200",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
